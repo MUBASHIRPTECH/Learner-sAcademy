@@ -12,3 +12,7 @@ Learner’s Academy is a school that has an online management system. The system
 4. MySQL RDBMS.
 5. HTML, CSS, XML.
 6. Apache Tomcat to implement JSP and Servlets.
+
+ # All Screenshorts
+ [ScreenOutput.pdf](https://github.com/MUBASHIRPTECH/Learner-sAcademy/files/13285236/ScreenOutput.pdf)
+
